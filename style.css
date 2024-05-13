@@ -1,0 +1,72 @@
+.navbar {
+    background-color: rgb(80, 151, 199);
+}
+.navbar-title{
+    font-weight: 900;
+    font-size: 34px;
+    color: black;
+}
+#welcome-card{
+    background-color: #abd9ff;
+    width: 600px;
+}
+#about-button{
+    background-color: rgb(246, 246, 247);
+    font-size: 19px;
+    color: black;
+}
+.has-margin-top{
+    margin-top: 8rem;
+    
+}
+.about-button-container{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.card-content{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.has-margin-bottom{
+    margin-bottom: 2rem;
+}
+
+#main-page{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.card-image{
+    margin-left: 3rem;
+}
+#about-content{
+    display: flex;
+    justify-content: left;
+    width: 100%;
+    background-color: lightcyan;
+    color: black;
+}
+#about-us-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 8rem;
+}
+#telegram{
+    font-size: large;
+    font-style: italic;
+    font-weight: bold;
+}
+#about-title{
+    color: rgb(32, 32, 32);
+}
+#about-text{
+    color: rgb(51, 49, 49);
+}
+#welcome-text{
+    color: rgb(32, 32, 32);
+}
